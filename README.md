@@ -1,9 +1,3 @@
-### Jeremy (Jiatai) Li
-
-LLM pipelines · computer vision · data tooling
-
----
-
 #### 🎬 [journal-video-maker](https://github.com/Jeremyliii/journal-video-maker)
 
 An unattended pipeline that turns newly published journal papers into short explainer videos, in Chinese and English.
