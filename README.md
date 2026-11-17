@@ -1,8 +1,6 @@
-### Hi, I'm Jeremy 👋
+### Jeremy
 
-I build small, fully automated systems around LLMs — things that run on a home mini-PC every day without me touching them.
-
-我喜欢把大模型接进真正每天在跑的自动化系统里：从找素材、写稿、审稿到发布，全程无人值守。
+LLM pipelines · computer vision · data tooling
 
 ---
 
