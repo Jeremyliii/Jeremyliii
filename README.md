@@ -1,4 +1,4 @@
-### Jiatai Li
+### Jeremy (Jiatai) Li
 
 LLM pipelines · computer vision · data tooling
 
