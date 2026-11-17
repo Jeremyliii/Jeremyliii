@@ -28,7 +28,9 @@ A personal US stock research system: daily data after the close, rule-based buy 
 <details>
 <summary>Earlier projects</summary>
 
-- [medical-image-classifier-android](https://github.com/hhbgj/medical-image-classifier-android) — on-device medical image classification with TFLite (pneumonia, breast cancer, brain tumor, malaria)
+- [medical-image-classifier-android](https://github.com/hhbgj/medical-image-classifier-android) — four on-device TFLite classifiers (pneumonia, breast tumor, brain tumor, malaria), with measured accuracy
+- [clip-content-moderation](https://github.com/hhbgj/clip-content-moderation) — zero-shot image moderation with CLIP, FastAPI + Vue 3
+- [huggingface-model-trends](https://github.com/hhbgj/huggingface-model-trends) — what is trending on Hugging Face, 2024 vs 2026
 - [qdii-etf-advisor](https://github.com/hhbgj/qdii-etf-advisor) — the first version of the stock system, focused on QDII ETFs
 
 </details>
