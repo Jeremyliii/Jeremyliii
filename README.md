@@ -1,10 +1,10 @@
-### Jeremy
+### Jiatai Li
 
 LLM pipelines · computer vision · data tooling
 
 ---
 
-#### 🎬 [journal-video-maker](https://github.com/hhbgj/journal-video-maker)
+#### 🎬 [journal-video-maker](https://github.com/jiatai-li/journal-video-maker)
 
 An unattended pipeline that turns newly published journal papers into short explainer videos, in Chinese and English.
 
@@ -15,7 +15,7 @@ An unattended pipeline that turns newly published journal papers into short expl
 
 `Python` `three.js` `Playwright` `Claude` `GPT`
 
-#### 📈 [us-stock-insight](https://github.com/hhbgj/us-stock-insight)
+#### 📈 [us-stock-insight](https://github.com/jiatai-li/us-stock-insight)
 
 A personal US stock research system: daily data after the close, rule-based buy lines and sell signals, a Nasdaq take-profit gauge, and twice-weekly supply-chain reports written by Claude. Pushes a short phone notification when something changes.
 
@@ -26,9 +26,9 @@ A personal US stock research system: daily data after the close, rule-based buy 
 <details>
 <summary>Earlier projects</summary>
 
-- [medical-image-classifier-android](https://github.com/hhbgj/medical-image-classifier-android) — four on-device TFLite classifiers (pneumonia, breast tumor, brain tumor, malaria), with measured accuracy
-- [clip-content-moderation](https://github.com/hhbgj/clip-content-moderation) — zero-shot image moderation with CLIP, FastAPI + Vue 3
-- [huggingface-model-trends](https://github.com/hhbgj/huggingface-model-trends) — what is trending on Hugging Face, 2024 vs 2026
-- [qdii-etf-advisor](https://github.com/hhbgj/qdii-etf-advisor) — the first version of the stock system, focused on QDII ETFs
+- [medical-image-classifier-android](https://github.com/jiatai-li/medical-image-classifier-android) — four on-device TFLite classifiers (pneumonia, breast tumor, brain tumor, malaria), with measured accuracy
+- [clip-content-moderation](https://github.com/jiatai-li/clip-content-moderation) — zero-shot image moderation with CLIP, FastAPI + Vue 3
+- [huggingface-model-trends](https://github.com/jiatai-li/huggingface-model-trends) — what is trending on Hugging Face, 2024 vs 2026
+- [qdii-etf-advisor](https://github.com/jiatai-li/qdii-etf-advisor) — the first version of the stock system, focused on QDII ETFs
 
 </details>
